@@ -21,17 +21,15 @@
 title: Corrie
 email: corrie_johnstone@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Games and systems programmer based in Scotland.
+  Games and systems programmer based in Scotland. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://corrie_johnstone.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CorrieJ98
 
 # Build settings
 theme: minima
-remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme-0.4.3
 
 # Exclude from processing.
 # The following items will not be processed, by default.
