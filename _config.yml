@@ -27,7 +27,7 @@ url: "http://corrie_johnstone.com" # the base hostname & protocol for your site,
 github_username:  CorrieJ98
 
 # Build settings
-remote_theme: BGMP/bgm.dev
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
