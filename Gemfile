@@ -34,4 +34,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.9"
 
+gem "github-pages", group: :jekyll_plugins
+
+gem 'jekyll-remote-theme', '~> 0.4.3'
+
 gem 'jekyll-theme-midnight', '~> 0.2.0'
